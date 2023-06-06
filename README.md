@@ -6,10 +6,7 @@
 - [Features](#features)
 - [Hardware Requirements](#hardware-requirements)
 - [Software Requirements](#software-requirements)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
